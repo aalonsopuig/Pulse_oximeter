@@ -4,7 +4,7 @@ Pulse Oximeter based on MAX30102 sensor and implemented over Wemos D1 Mini (ESP8
 v0.1
 
 ---
-Project in progress. <br>
+PROJECT STATUS: **In progress**. <br><br>
 This program uses a MAX30102 sensor to read heartbeat pulse and oxigen concentration in blood.
 The SBC used is a Wemos D1 Mini (ESP8266 (ESP-12E)), although it might be compatible with othe versions and Arduino.
 The Display is a SSD1306 128x64
